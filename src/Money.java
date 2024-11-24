@@ -29,8 +29,17 @@ public class Money
         cents = m.cents;
     }
 
-// ADD LINES FOR TASK #1 HERE
-// Document and write a copy constructor
+    public  boolean equals(Money m){
+        return dollars == m.dollars && cents == m.cents;
+    }
+
+    public String toString(){
+        String ts = "$";
+        ts += dollars + ".";
+        ts += cents < 10 ? "0" + cents : cents;
+
+        return  ts;
+    }
     /**
 
     The add method
