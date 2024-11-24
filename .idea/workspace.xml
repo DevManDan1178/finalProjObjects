@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6afd4706-d1ef-495e-85db-7f1d0fcb7431" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Money.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MoneyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+    <list default="true" id="6afd4706-d1ef-495e-85db-7f1d0fcb7431" name="Changes" comment="imported - no changes to code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,11 +75,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731889732814</updated>
-      <workItem from="1731889733847" duration="355000" />
+      <workItem from="1731889733847" duration="590000" />
     </task>
+    <task id="LOCAL-00001" summary="imported - no changes to code">
+      <option name="closed" value="true" />
+      <created>1731890109735</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731890109735</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="imported - no changes to code" />
+    <option name="LAST_COMMIT_MESSAGE" value="imported - no changes to code" />
   </component>
 </project>
