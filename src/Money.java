@@ -23,6 +23,12 @@ public class Money
             cents = allCents % 100;
         }
     }
+
+    public  Money(Money m){
+        dollars = m.dollars;
+        cents = m.cents;
+    }
+
 // ADD LINES FOR TASK #1 HERE
 // Document and write a copy constructor
     /**
